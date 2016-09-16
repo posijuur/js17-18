@@ -1,0 +1,17 @@
+
+
+h1 {
+	font-size: 30px;
+	color: #D04375;
+}
+
+span {
+	font-size: 12px;
+	background-color: #EF2626;
+}
+
+.wrap {
+	/* background-color: #FCCFCF; */
+	background: linear-gradient(45deg, #3A60EF, #FFD234);
+	
+}
